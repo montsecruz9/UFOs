@@ -5,6 +5,7 @@ The purpose of this project was to go through a JavaScript file with UFO sightin
 
 ## Results
 The webpage created lets users manipulate and filter data from the table to discover information about UFO sightings around different cities, states, and countries around the world. 
+
 Users can enter a certain date:
 ![image](https://user-images.githubusercontent.com/104812189/192272199-e1660490-f8f0-4e80-ba55-ea1a277a3d77.png)
 
